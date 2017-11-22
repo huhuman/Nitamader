@@ -13,7 +13,7 @@
 
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl: /
+baseurl: /Nitamader/
 title: Steve's blog
 description: > #this means to ignore newlines until "nav_lists:"
   Steve's Blog
