@@ -1,0 +1,18 @@
+---
+layout: post
+title: NTUTBA HW6
+key: 20180526
+tags:
+  - TBA
+lang: zh-Hant
+---
+
+## 旅行者行為分析 TBA
+### HW6 - 存活分析(Survival analysis)
+
++ 設限資料(censored data)
+
+	觀察資料中，中途失去追蹤/退出觀察等情形
++ Kaplan-Meier Method
+
+	依每個時間點的條件存活率畫出的折線圖
